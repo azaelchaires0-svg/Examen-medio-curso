@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread('imagenes/virus.jpg')
+img = cv2.imread('Captura de pantalla 2026-03-11 200255.png')
 
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
