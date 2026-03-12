@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread('imagenes/imagen.jpg')
+img = cv2.imread('imagen 2 pdi.avif')
 
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
