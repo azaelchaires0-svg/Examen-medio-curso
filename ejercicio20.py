@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread('imagenes/imagen_biomedica.jpg',0)
+img = cv2.imread('Captura de pantalla 2026-03-11 200313.png',0)
 
 h,w = img.shape
 
